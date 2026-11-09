@@ -8,6 +8,16 @@
 
 [离职证明网站](https://geshui.moujc.cn/leave-certificate/) · [直接打开编辑工具](https://geshui.moujc.cn/leave-certificate/editor.html) · [GitHub 宣传仓库](https://github.com/Mou652/leave-certificate-demo) · [Gitee 国内入口](https://gitee.com/MouJC/leave-certificate-demo)
 
+## 在线教程与阅读目录
+
+- [填写与预览教程](https://geshui.moujc.cn/guides/leave-certificate-how-to-use.html)
+- [PDF 导出与重复下载](https://geshui.moujc.cn/guides/leave-certificate-pdf-export.html)
+- [激活、24小时与3个版本](https://geshui.moujc.cn/guides/leave-certificate-activation.html)
+- [手机、资料修改与隐私 FAQ](https://geshui.moujc.cn/guides/leave-certificate-faq.html)
+- [纯文本产品说明](https://geshui.moujc.cn/leave-certificate.md) · [AI 阅读目录](https://geshui.moujc.cn/llms.txt) · [产品站点地图](https://geshui.moujc.cn/leave-certificate-sitemap.xml)
+
+仅供虚构资料、版式研究与技术交流，演示文件不作为真实人事证明。
+
 ## 两款产品，一处了解
 
 | 产品 | 用途 | 使用入口 |
