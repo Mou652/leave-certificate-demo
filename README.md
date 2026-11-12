@@ -23,7 +23,7 @@
 | 产品 | 用途 | 使用入口 |
 | --- | --- | --- |
 | **离职证明演示工具** | 编辑虚构示例资料、预览版式、调整公章，激活后导出无产品水印 PDF | [在线使用](https://geshui.moujc.cn/leave-certificate/editor.html) |
-| **个人所得税模拟器** | 演示个税 App 界面、年度查询、收入纳税明细与个人中心，制作教学截图和录屏 | [官网与教程](https://geshui.moujc.cn/) · [安卓下载](https://geshui-apk.moujc.cn/) |
+| **个人所得税模拟器** | 演示个税 App 界面、年度查询、收入纳税明细与个人中心，制作教学截图和录屏 | [官网与教程](https://geshui.moujc.cn/) |
 
 ## 离职证明演示工具
 
@@ -66,7 +66,6 @@
 | 阅读入口 | 地址 |
 | --- | --- |
 | 官网与完整教程 | [geshui.moujc.cn](https://geshui.moujc.cn/) |
-| 安卓下载与安装 | [geshui-apk.moujc.cn](https://geshui-apk.moujc.cn/) |
 | GitHub 项目介绍 | [Mou652/geshui-simulator](https://github.com/Mou652/geshui-simulator) |
 | Gitee 国内项目介绍 | [MouJC/geshui-simulator](https://gitee.com/MouJC/geshui-simulator) |
 | 首次使用 | [版本说明与开始使用](https://geshui.moujc.cn/guides/getting-started.html) |
